@@ -1,0 +1,110 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon8839.ttf?b62dc249e1a880cc2acabc98b67a2102") format("truetype"),
+url("../fonts/flaticon8839.woff?b62dc249e1a880cc2acabc98b67a2102") format("woff"),
+url("../fonts/flaticon8839.woff2?b62dc249e1a880cc2acabc98b67a2102") format("woff2"),
+url("../fonts/flaticon8839.eot?b62dc249e1a880cc2acabc98b67a2102#iefix") format("embedded-opentype"),
+url("../fonts/flaticon8839.svg?b62dc249e1a880cc2acabc98b67a2102#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-alarm-clock:before {
+    content: "\f101";
+}
+.flaticon-biodegradable:before {
+    content: "\f102";
+}
+.flaticon-broom-1:before {
+    content: "\f103";
+}
+.flaticon-broom:before {
+    content: "\f104";
+}
+.flaticon-bubbles:before {
+    content: "\f105";
+}
+.flaticon-budget:before {
+    content: "\f106";
+}
+.flaticon-chat:before {
+    content: "\f107";
+}
+.flaticon-cleaning-service:before {
+    content: "\f108";
+}
+.flaticon-cleaning:before {
+    content: "\f109";
+}
+.flaticon-cloth:before {
+    content: "\f10a";
+}
+.flaticon-folder-management:before {
+    content: "\f10b";
+}
+.flaticon-glass-cleaner:before {
+    content: "\f10c";
+}
+.flaticon-home:before {
+    content: "\f10d";
+}
+.flaticon-house-1:before {
+    content: "\f10e";
+}
+.flaticon-house:before {
+    content: "\f10f";
+}
+.flaticon-leader:before {
+    content: "\f110";
+}
+.flaticon-link:before {
+    content: "\f111";
+}
+.flaticon-mop:before {
+    content: "\f112";
+}
+.flaticon-newsletter:before {
+    content: "\f113";
+}
+.flaticon-newspaper-folded:before {
+    content: "\f114";
+}
+.flaticon-office:before {
+    content: "\f115";
+}
+.flaticon-phone:before {
+    content: "\f116";
+}
+.flaticon-quotation:before {
+    content: "\f117";
+}
+.flaticon-skyscrapers:before {
+    content: "\f118";
+}
+.flaticon-thumbs-up:before {
+    content: "\f119";
+}
+.flaticon-vacuum:before {
+    content: "\f11a";
+}
+.flaticon-warranty:before {
+    content: "\f11b";
+}
+.flaticon-window-cleaning:before {
+    content: "\f11c";
+}
+.flaticon-window:before {
+    content: "\f11d";
+}
+.flaticon-zoom:before {
+    content: "\f11e";
+}

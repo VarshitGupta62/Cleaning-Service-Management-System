@@ -1,0 +1,465 @@
+/* template-color */
+
+.handle-preloader{
+	background: #02142a;
+}
+
+.preloader-close{
+	color: #00a0eb;
+}
+
+.header-top .top-inner .info li a:hover{
+  color: #00a0eb;
+}
+
+.header-top .top-inner .info li:before{
+	background: #00a0eb;
+}
+
+.header-top .top-inner .social-links li a{
+	color: #00a0eb;
+}
+
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li:hover > a{
+  color: #00a0eb;
+}
+
+.main-menu .navigation > li > ul > li > a:hover,
+.main-menu .navigation > li > .megamenu li > a:hover{
+  color: #00a0eb;
+}
+
+.main-header .menu-right-content li.nav-btn{
+	background: #00a0eb;
+}
+
+.service-block-one .inner-box .lower-content h3 a:hover{
+  color: #00a0eb;
+}
+
+.sec-title h6{
+	color: #00a0eb;
+}
+
+.sec-title h6:before{
+	background: #00a0eb;
+}
+
+.sec-title.centred h6:after{
+	background: #00a0eb;
+}
+
+.chooseus-block-one .inner-box h3 i{
+	color: #00a0eb;
+}
+
+.testimonial-block-one .inner-box .text-inner{
+	border-top: 5px solid #00a0eb;
+}
+
+.testimonial-block-one .inner-box .quote{
+	color: #00a0eb;
+}
+
+.team-section:before{
+	background: #00a0eb;
+}
+
+.team-block-one .inner-box .lower-content h3 a:hover{
+  color: #00a0eb;
+}
+
+.team-block-one .inner-box .lower-content .link a:hover{
+  background: #00a0eb;
+}
+
+.contact-section .content-box .support-box .phone a:hover{
+  color: #00a0eb;
+}
+
+.contact-section .default-form .form-group button:hover{
+  background: #00a0eb;
+}
+
+.default-form .form-group input:focus,
+.default-form .form-group textarea:focus{
+  border-color: #00a0eb !important;
+}
+
+.news-block-one .inner-box .lower-content .post-info:before{
+	background: #00a0eb;
+}
+
+.news-block-one .inner-box .lower-content .post-info li:before{
+	background: #00a0eb;
+}
+
+.news-block-one .inner-box .lower-content .post-info li a{
+	color: #00a0eb;
+}
+
+.news-block-one .inner-box .lower-content h3 a:hover{
+  color: #00a0eb;
+}
+
+.footer-top .form-inner .form-group button:hover{
+  background: #00a0eb;
+}
+
+.footer-social li a:hover{
+  border-color: #00a0eb;
+  color: #00a0eb;
+}
+
+.main-footer .links-widget .links-list li a:hover{
+  color: #00a0eb;
+}
+
+.main-footer .contact-widget .info-list li a:hover{
+  color: #00a0eb;
+}
+
+.footer-bottom .bottom-inner p a:hover{
+  color: #00a0eb;
+}
+
+.main-header .support-box h4 a:hover{
+  color: #00a0eb;
+}
+
+.theme-btn.btn-two:hover{
+  background: #00a0eb;
+}
+
+.banner-style-two .content-box .support-box a{
+	color: #00a0eb;
+}
+
+.service-style-two .sec-title .link a:hover{
+  color: #00a0eb;
+  border-color: #00a0eb;
+}
+
+.service-block-two .inner-box .lower-content h3 a:hover{
+  color: #00a0eb;
+}
+
+.service-block-two .inner-box .lower-content .link a{
+	background: #00a0eb;
+}
+
+.service-block-two .inner-box .lower-content .link a:hover{
+	color: #00a0eb;
+}
+
+.nav-style-two .owl-nav button:hover{
+  background: #00a0eb;
+  border-color: #00a0eb;
+}
+
+.pricing-block:nth-child(2) .pricing-table .theme-btn:hover{
+  background: #00a0eb !important;
+}
+
+.pricing-block:nth-child(3) .pricing-block-one .pricing-table .theme-btn:hover{
+  background: #00a0eb;
+}
+
+.cta-section{
+	background: #00a0eb;
+}
+
+.news-style-two .title-inner .text a{
+	color: #00a0eb;
+}
+
+.news-block-two .inner-box .lower-content h3 a:hover{
+  color: #00a0eb;
+}
+
+.news-block-two .inner-box .lower-content h6:before{
+	background: #00a0eb;
+}
+
+.news-block-two .inner-box .lower-content h6 a{
+	color: #00a0eb;
+}
+
+.service-block-three .inner-box h3 a:hover{
+  color: #00a0eb;
+}
+
+.service-block-three .inner-box .link a:hover{
+  color: #00a0eb;
+}
+
+.cta-style-two .image-box .image-shape .shape-2{
+	border: 1px solid #28b7ed;
+}
+
+.cta-style-two .image-box .image-shape .shape-1{
+	background: #28b7ed;
+}
+
+.footer-top .text-inner .icon-box{
+	color: #00a0eb;
+}
+
+.header-style-four .support-box h4 a:hover{
+  color: #00a0eb;
+}
+
+.slider-style-two .other-links li a:hover{
+  color: #00a0eb;
+}
+
+.image_block_three .image-box .text-box{
+	background: #00a0eb;
+}
+
+.content_block_four .content-box .inner-box .single-item .icon-box{
+	color: #00a0eb;
+}
+
+.service-style-two.home-4 .sec-title .link a:hover{
+  color: #00a0eb;
+  border-color: #00a0eb;
+}
+
+.service-style-two.home-4 .service-block-two .inner-box .lower-content h3 a:hover{
+	color: #00a0eb;
+}
+
+.progress-box .bar-inner{
+	background: #00a0eb;
+}
+
+.video-section .text .btn-box .video-btn{
+	background: #00a0eb;
+}
+
+.funfact-style-three .funfact-inner .single-item .icon-box{
+	color: #008be2;
+}
+
+.project-block-two .inner-box .content-box .text h4 a:hover{
+  color: #00a0eb;
+}
+
+.header-style-five .menu-right-content .support-box h3 a:hover{
+  color: #00a0eb;
+}
+
+.banner-style-three .form-inner .form-group .theme-btn:hover{
+  background: #00a0eb;
+}
+
+.content_block_seven .content-box .author-box .designation{
+	color: #00a0eb;
+}
+
+.team-block-two .inner-box .lower-content h3 a:hover{
+  color: #00a0eb;
+}
+
+.cta-style-three .image-box .image-shape .shape-1{
+	background: #28b7ed;
+}
+
+.cta-style-three .image-box .image-shape .shape-2{
+	border: 1px solid #28b7ed;
+}
+
+.faq-section .content-box .theme-btn{
+  background: #00a2ff;
+}
+
+.faq-section .content-box .theme-btn:hover{
+  color: #00a2ff;
+}
+
+.content_block_eight .content-box .support-box h3 a:hover{
+  color: #28b7ed;
+}
+
+.contact-style-two .form-inner .form-group input:focus,
+.contact-style-two .form-inner .form-group textarea:focus{
+  border-color: #28b7ed !important;
+}
+
+.header-style-six .menu-right-content .support-box h4 a:hover{
+  color: #28b7ed;
+}
+
+.header-style-six .menu-right-content .btn-box a:hover{
+  background: #28b7ed;
+}
+
+.header-style-seven .social-links li a:hover{
+  color: #00a0eb;
+}
+
+.header-style-eight .header-top .phone a:hover{
+  color: #00a0eb;
+}
+
+.testimonial-block-four .inner-box .quote{
+	color: #00a0eb;
+}
+
+.header-style-nine .support-box h3 a:hover{
+	color: #00a0eb;
+}
+
+.banner-btn:hover{
+  background: #00a0eb;
+}
+
+.service-block-four .inner-box h3 a:hover{
+  color: #00a0eb;
+}
+
+.service-block-four .inner-box .link a:hover{
+  color: #00a0eb;
+}
+
+.testimonial-style-five .owl-nav button:hover{
+  background: #00a0eb;
+}
+
+.header-style-ten .header-top .top-inner .info li a:hover{
+  color: #00a0eb;
+}
+
+.slider-style-five .banner-carousel .slide-item .theme-btn{
+  background: #00a2ff;
+}
+
+.estimate-section form .form-group button:hover{
+  background: #00a2ff;
+}
+
+.content_block_one .content-box .inner-box .single-item .icon-box{
+	color: #00a2ff;
+}
+
+.help-section:before{
+	background: #0592e3;
+}
+
+.header-top-two .info-box li h5 a:hover{
+  color: #00a2ff;
+}
+
+.header-style-11 .menu-right-content .btn-box a:hover{
+  background: #00a2ff;
+}
+
+.slider-style-six .content-box h6{
+	background: #00a0eb;
+}
+
+.about-style-seven .content-box .inner-box .inner:before{
+	background: #00a2ff;
+}
+
+.about-style-seven .content-box .author-box h3 a:hover{
+  color: #00a2ff;
+}
+
+.header-style-12.header-style-six .menu-right-content .btn-box a{
+	background: #00a0eb;
+}
+
+.banner-style-six .content-box .support-box a{
+	color: #00a2ff;
+}
+
+.page-title .content-box .bread-crumb li a:hover{
+  color: #00a2ff;
+}
+
+.about-style-ten .text-inner .text h6{
+	color: #00a2ff;
+}
+
+.about-style-ten .text-inner .text h6:before{
+	background: #00a2ff;
+}
+
+.history-section .single-item .year{
+	background: #00a2ff;
+}
+
+.service-sidebar .category-widget .category-list li a:hover,
+.service-sidebar .category-widget .category-list li a.current{
+  background: #00a2ff;
+}
+
+.service-sidebar .download-widget a:hover{
+  background: #00a2ff;
+}
+
+.sortable-masonry .filter-tabs li.active,
+.sortable-masonry .filter-tabs li:hover{
+  color: #00a2ff;
+}
+
+.project-details-content blockquote .icon-box{
+	color: #00a7eb;
+}
+
+.news-block-three .inner-box .lower-content .post-info li a:hover{
+  color: #00a7eb;
+}
+
+.news-block-three .inner-box .lower-content h2 a:hover{
+	color: #00a7eb;
+}
+
+.blog-sidebar .category-widget .category-list li a:hover{
+  color: #00a7eb;
+}
+
+.blog-sidebar .category-widget .category-list li a:hover:before{
+	color: #00a7eb;
+}
+
+.blog-sidebar .post-widget .post h5 a:hover{
+  color: #00a7eb;
+}
+
+.appointment-form .theme-btn:hover{
+  background: #00a7eb;
+}
+
+.faq-style-two .search-form .form-group input:focus{
+	border-color: #00a7eb !important;
+}
+
+.faq-form-section .form-inner .form-group .theme-btn:hover{
+  background: #00a7eb;
+}
+
+.error-section .inner-box h1{
+	color: #00a7eb;
+}
+
+.contact-page-section .form-inner .form-group .theme-btn:hover{
+  background: #00a7eb;
+}
+
+.contact-page-section .content-box .info-list li p a:hover{
+  color: #00a7eb;
+}
+
+.banner-section .content-box .btn-box a:hover{
+	background: #00a7eb !important;
+}
+
+
+
+
+
+
